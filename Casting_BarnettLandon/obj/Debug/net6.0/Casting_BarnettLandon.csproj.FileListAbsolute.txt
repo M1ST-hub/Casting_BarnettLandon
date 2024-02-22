@@ -1,0 +1,14 @@
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\obj\Debug\net6.0\Casting_BarnettLandon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\obj\Debug\net6.0\Casting_BarnettLandon.AssemblyInfoInputs.cache
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\obj\Debug\net6.0\Casting_BarnettLandon.AssemblyInfo.cs
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\obj\Debug\net6.0\Casting_BarnettLandon.csproj.CoreCompileInputs.cache
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\bin\Debug\net6.0\Casting_BarnettLandon.exe
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\bin\Debug\net6.0\Casting_BarnettLandon.deps.json
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\bin\Debug\net6.0\Casting_BarnettLandon.runtimeconfig.json
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\bin\Debug\net6.0\Casting_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\bin\Debug\net6.0\Casting_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\obj\Debug\net6.0\Casting_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\obj\Debug\net6.0\refint\Casting_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\obj\Debug\net6.0\Casting_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\obj\Debug\net6.0\Casting_BarnettLandon.genruntimeconfig.cache
+C:\Users\LandonBarnett\source\repos\Casting_BarnettLandon\Casting_BarnettLandon\obj\Debug\net6.0\ref\Casting_BarnettLandon.dll
